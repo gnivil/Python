@@ -196,4 +196,4 @@ with open (outputfile, 'r') as analysis:
 
 ## Analysis Output
 
-1[alt text](https://github.com/gnivil/Python-Challenge/blob/c129d552965b1ad39ac4f3c90f406f3733725f9c/PyPoll/Analysis/PyPoll%20Analysis.png)
+![alt text](https://github.com/gnivil/Python-Challenge/blob/c129d552965b1ad39ac4f3c90f406f3733725f9c/PyPoll/Analysis/PyPoll%20Analysis.png)
