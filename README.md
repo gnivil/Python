@@ -1,4 +1,4 @@
-# Python-Challenge - Py Me Up, Charlie
+# Python Challenge - Py Me Up, Charlie
 
 -----
 
