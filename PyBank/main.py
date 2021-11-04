@@ -9,7 +9,7 @@ def Average(list):
     return round(st.mean(list), 2) 
 
 # Define paths for input and output files
-inputfile = os.path.join('..', 'Resources', 'budgetdata.csv')
+inputfile = os.path.join("..", "Python-Challenge", "PyBank", "Resources", "budget_data.csv")
 outputfile = os.path.join("..","Python-Challenge", "PyBank", "Analysis", "analysis.txt")
 
 # Empty lists to hold calculated values
